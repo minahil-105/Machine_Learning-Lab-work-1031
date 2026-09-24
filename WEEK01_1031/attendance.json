@@ -1,0 +1,34 @@
+[
+    {
+        "Name":"Ali",
+        "Attendance":92
+    },
+    {
+        "Name":"Sara",
+        "Attendance":68
+    },
+    {
+        "Name":"Ahmed",
+        "Attendance":95
+    },
+    {
+        "Name":"Ayesha",
+        "Attendance":62
+    },
+    {
+        "Name":"Hamza",
+        "Attendance":75
+    },
+    {
+        "Name":"Fatima",
+        "Attendance":89
+    },
+    {
+        "Name":"Usman",
+        "Attendance":58
+    },
+    {
+        "Name":"Hina",
+        "Attendance":97
+    }
+]
