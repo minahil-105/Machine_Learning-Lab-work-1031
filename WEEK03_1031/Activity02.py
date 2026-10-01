@@ -8,7 +8,7 @@ from sklearn.preprocessing import PolynomialFeatures
 from sklearn.metrics import mean_squared_error, r2_score
 degrees_to_test = [2, 3, 4]
 
-df = pd.read_csv("Media/CarPrice_Assignment.csv")
+df = pd.read_csv("Admission_Predict.csv")
 
 print("--- Dataset Info ---")
 print(df.head())
